@@ -15,7 +15,7 @@ I'm a passionate **junior fullstack developer** with a focus on building modern 
 - Projects with a focus on learning and sharing knowledge
 
 ## 📫 How to Reach Me
-- 📧 Email: `g.hotton.dev@gmail.com`
+- 📧 Email: `gwendolineh@outlook.fr`
 - 💼 LinkedIn: [linkedin.com/in/zaiden-alpha](https://www.linkedin.com/in/zaiden-alpha)
 - 💻 Portfolio (coming soon!)
 
