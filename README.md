@@ -20,7 +20,7 @@ I'm a passionate **junior fullstack developer** with a focus on building modern 
 - 💻 Portfolio (coming soon!)
 
 ## 😄 Pronouns
-She/Her (à adapter si besoin !)
+She/Her 
 
 ## ⚡ Fun Fact
 I once debugged an entire API at 2AM with just console logs and iced coffee ☕🐛  
