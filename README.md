@@ -16,7 +16,6 @@ I'm a passionate **junior fullstack developer** with a focus on building modern 
 
 ## 📫 How to Reach Me
 - 📧 Email: `gwendolineh@outlook.fr`
-- 💼 LinkedIn: [linkedin.com/in/zaiden-alpha](https://www.linkedin.com/in/zaiden-alpha)
 - 💻 Portfolio (coming soon!)
 
 ## 😄 Pronouns
