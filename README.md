@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Zaiden-alpha
+# 👋 Hi, I’m Alpha
 
 ## 👀 About Me
 I'm a passionate **junior fullstack developer** with a focus on building modern web applications using **Angular** and **ASP.NET Core**. I'm always curious and love diving into new technologies and solving real-world problems through code.
