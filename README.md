@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Alpha
+# 👋 Hi, I’m Alpha (Gwen ^^) 
 
 ## 👀 About Me
 I'm a passionate **junior fullstack developer** with a focus on building modern web applications using **Angular** and **ASP.NET Core**. I'm always curious and love diving into new technologies and solving real-world problems through code.
@@ -8,6 +8,9 @@ I'm a passionate **junior fullstack developer** with a focus on building modern 
 - ASP.NET Core API security (JWT, role-based auth)
 - Clean architecture & unit testing with xUnit
 - Docker basics & deployment on Azure
+- Git
+- Sql
+- Html/CSS
 
 ## 💞️ I’m Looking to Collaborate On
 - Open-source projects related to fullstack development
@@ -26,6 +29,15 @@ I once debugged an entire API at 2AM with just console logs and iced coffee ☕�
 Also, I name my commits like they’re journal entries.
 
 ---
+## 🎨 Hobbies & Interests
+
+- 🎮 **Gaming & Fantasy:** Exploring immersive worlds, discovering epic stories, and enjoying fantasy universes.
+- 📸 **Photography & Creativity:** Capturing moments, exploring visual design, and bringing creative ideas to life.
+- 🎭 **Cosplay:** Bringing favorite characters to life through costumes, props, and creative projects.
+- 🐺 **Dark Fantasy & Romance:** Fascinated by dark aesthetics, mysterious atmospheres, and supernatural worlds.
+- 🧩 **Learning & Creating:** Always curious, I love exploring new ideas, experimenting, and challenging myself with personal projects.
+
+✨ *A little creativity, a touch of darkness, and a lot of curiosity! 🖤*
 
 ### 🔧 Technologies & Tools
 
