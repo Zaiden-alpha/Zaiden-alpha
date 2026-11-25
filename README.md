@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Alpha (Gwen ^^) 
+# 👋 Hi, I’m Gwen ^^
 
 ## 👀 About Me
 I'm a passionate **junior fullstack developer** with a focus on building modern web applications using **Angular** and **ASP.NET Core**. I'm always curious and love diving into new technologies and solving real-world problems through code.
@@ -11,6 +11,7 @@ I'm a passionate **junior fullstack developer** with a focus on building modern 
 - Git
 - Sql
 - Html/CSS
+- 
 
 ## 💞️ I’m Looking to Collaborate On
 - Open-source projects related to fullstack development
